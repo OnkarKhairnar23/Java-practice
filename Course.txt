@@ -1,3 +1,6 @@
 Get the user data..
 course 1 - Java full-stack
 prize - Rs28000
+
+course 2 - Data Analytic
+prize - Rs 0
