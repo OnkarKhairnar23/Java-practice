@@ -7,3 +7,8 @@ Time - 12:00-01:00 pm
 Course 2 - Data Analytics
 Prize - Rs 0
 Time - 05:00-06:00 pm
+
+Data of purchase - 29/01/2026
+
+Company Name - Advanto
+Address - Karve Nagar, Pune
