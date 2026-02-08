@@ -1,3 +1,9 @@
 Get the user data..
-course 1 - Java full-stack
-prize - Rs28000
+
+Course 1 - Java full-stack
+Prize - Rs 28000
+Time - 12:00-01:00 pm
+
+Course 2 - Data Analytics
+Prize - Rs 0
+Time - 05:00-06:00 pm
