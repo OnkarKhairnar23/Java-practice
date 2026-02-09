@@ -38,7 +38,6 @@ public class SingleLevel {
 
         // method overiding - 06:36:16
         obj.show();
-
         // 
 
     }
