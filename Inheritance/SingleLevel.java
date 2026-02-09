@@ -1,5 +1,6 @@
 package Inheritance;
 
+// Inheritance - 06:10:51
 
 class A{
     public void show(){
@@ -13,18 +14,15 @@ class B extends A{
     }
 }
 
-public class Demo {
+public class SingleLevel {
     public static void main(String[] args) {
-        // Inheritance - 06:10:51
-            // method overiding - 06:36:16
+        
+        // method overiding - 06:36:16    
         // B obj = new B();
         // obj.show();
 
+        // 
 
     }
 
 }
-
-
-
-
