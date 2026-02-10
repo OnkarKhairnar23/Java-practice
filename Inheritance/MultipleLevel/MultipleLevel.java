@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.MultipleLevel;
 
 // Multiple-Level Inheritence 
 class A{

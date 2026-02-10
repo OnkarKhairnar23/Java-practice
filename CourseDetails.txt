@@ -12,3 +12,17 @@ Data of purchase - 29/01/2026
 
 Company Name - Advanto
 Address - Karve Nagar, Pune
+
+//Truth
+String Feeling = "Useless" 
+bool Job = null 
+int timePassed = 1 //Years After Passout
+String mistake = "DecisionMaking,NoPlan,TmeMngmnt,LackOfDiscipline"  //During and after College
+String Actions = "Classes,SelfStudy"
+String Domain = "C/C++ , Java Backend, React Frontend, Python Data Analytics"
+int JobTimeLimit = 1.5 //Years After Passout
+int remainingTime = JobTimeLimit - timePassed = 0.5 //Years
+String StressLevel = "High"
+String WorkList = "Clearing Bcklog,Doing Course, Job search"
+String Avoid = "Tutorial Hell, Afraid of Failure, Project Delay/Fixing, Stoping to Learn"
+

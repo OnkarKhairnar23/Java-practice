@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.SingleLevel;
 
 // 06:10:51 Need of Inheritance
 // 06:17:06 What is Inheritance
