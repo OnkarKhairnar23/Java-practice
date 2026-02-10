@@ -1,6 +1,6 @@
-package Package2;
+package Package1;
 
-public class Calc1 {
+public class AdvCalc extends Calc{
     public int multiply(int a, int b) {
         return a * b;
     }
@@ -13,6 +13,6 @@ public class Calc1 {
         }
     }
     public void show() {
-        System.out.println("In Show of Calc1");
+        System.out.println("In Show of AdvCalc");
     }
 }
