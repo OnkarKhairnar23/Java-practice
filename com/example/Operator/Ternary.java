@@ -1,4 +1,4 @@
-package Operator;
+package com.example.Operator;
 public class Ternary {
     public static void main(String arg[]){
         int a=100, b=20;

@@ -1,4 +1,4 @@
-package Operator;
+package com.example.Operator;
 class BinaryOp{
     public static void main(String arg[]){
         //int a=10,b=20;

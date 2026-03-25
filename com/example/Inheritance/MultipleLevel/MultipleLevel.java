@@ -1,4 +1,4 @@
-package Inheritance.MultipleLevel;
+package com.example.Inheritance.MultipleLevel;
 
 // Multiple-Level Inheritence 
 class A{

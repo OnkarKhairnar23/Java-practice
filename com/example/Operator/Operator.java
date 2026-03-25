@@ -1,4 +1,4 @@
-package Operator;
+package com.example.Operator;
 class Operator{
 	public static void main(String args[]){
 		int a=10,b=20;
